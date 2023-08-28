@@ -3,7 +3,7 @@
   - [npm](home/npm)
   - [go](home/go)
   - [docker](home/docker)
-
+  - [ubuntu](home/ubuntu)
 - 乱七八糟
   - [重装电脑配置详情](home/resetWinwos)
 
